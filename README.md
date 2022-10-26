@@ -9,9 +9,9 @@ My name is Nurfatihah Binti Othman.I am a computer science student in USM.
 
 This system is a community-driven platform aligned with SDG no.1 that enables those who are affected by the daily hardships and Covid-19 issues to access essential support which consists basic necessities as a short-term solution, job opportunities as long-term solution especially for those who have lost their jobs to the pandemic and alternative access to relevant healthcare.
 
-Subsystem 1 : Basic Necessities 
-**Subsystem 2 : Job Portal**
-Subsystem 3 : Mental Health Appointment
+Subsystem 1 : Basic Necessities <br>
+**Subsystem 2 : Job Portal** <br>
+Subsystem 3 : Mental Health Appointment <br>
 
 <h3>Job Portal Subsystem</h3>
 
