@@ -15,4 +15,4 @@ Subsystem 3 : Mental Health Appointment <br>
 
 <h3>Job Portal Subsystem</h3>
 
-The second subsystem is a long-term alternative, Job Portal subsystem in which user is able to access job opportunities from the nearest available location through a filter and submit their information details and resume through this platform. Employers are also able to advertise relevant job vacancies. This platform would establish a direct connection between job seekers and employer.
+The second subsystem is Job Portal subsystem ,a long-term alternative in which user is able to access job opportunities from the nearest available location through a filter and submit their information details and resume through this platform. Employers are also able to advertise relevant job vacancies. This platform would establish a direct connection between job seekers and employer.
